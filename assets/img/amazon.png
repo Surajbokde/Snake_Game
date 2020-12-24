@@ -1,0 +1,920 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+			<link rel="pingback" href="https://therubyhub.com/xmlrpc.php">
+		
+	<!-- This site is optimized with the Yoast SEO Premium plugin v15.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Customer Success - The Number One Reason Amazon is Successful. | The Ruby Hub</title>
+	<meta name="description" content="Amazon is one organization that is laser-focused on its customers. A lot of product developers and marketing managers start with ideas and innovations and" />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://therubyhub.com/customer-success-the-number-one-reason-amazon-is-successful/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Customer Success - The Number One Reason Amazon is Successful. | The Ruby Hub" />
+	<meta property="og:description" content="Amazon is one organization that is laser-focused on its customers. A lot of product developers and marketing managers start with ideas and innovations and" />
+	<meta property="og:url" content="https://therubyhub.com/customer-success-the-number-one-reason-amazon-is-successful/" />
+	<meta property="og:site_name" content="The Ruby Hub" />
+	<meta property="article:publisher" content="https://www.facebook.com/salesruby/?__tn__=%2cd%2cP-R&amp;amp%3bamp%3bamp%3bamp%3bamp%3bamp%3bamp%3bamp%3beid=ARAiBakhb7r0TbZr81yvNDpYZBC1tY5G8QcrGCel55Il3tWFSXNBuzMRk06-Q6IuMP84wOelYg92AhAe" />
+	<meta property="article:published_time" content="2019-11-20T10:47:01+00:00" />
+	<meta property="article:modified_time" content="2019-11-20T11:40:44+00:00" />
+	<meta property="og:image" content="https://therubyhub.com/wp-content/uploads/2019/11/amazon.png" />
+	<meta property="og:image:width" content="225" />
+	<meta property="og:image:height" content="225" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@salesrubyNG" />
+	<meta name="twitter:site" content="@salesrubyNG" />
+	<meta name="twitter:label1" value="Written by">
+	<meta name="twitter:data1" value="Seun Odegbami">
+	<meta name="twitter:label2" value="Est. reading time">
+	<meta name="twitter:data2" value="1 minute">
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Ruby Hub &raquo; Feed" href="https://therubyhub.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Ruby Hub &raquo; Comments Feed" href="https://therubyhub.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Ruby Hub &raquo; Customer Success &#8211; The Number One Reason Amazon is Successful. Comments Feed" href="https://therubyhub.com/customer-success-the-number-one-reason-amazon-is-successful/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.10.4 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.10.4';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-168434456-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-168434456-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/therubyhub.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.4"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://therubyhub.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css-css'  href='https://therubyhub.com/wp-content/plugins/otter-blocks/vendor/codeinwp/gutenberg-animation/assets/css/animate.min.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='themeisle-gutenberg-animation-style-css'  href='https://therubyhub.com/wp-content/plugins/otter-blocks/vendor/codeinwp/gutenberg-animation/assets/css/style.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='themeisle-block_styles-css'  href='https://therubyhub.com/wp-content/plugins/otter-blocks/vendor/codeinwp/gutenberg-blocks/build/style.css?ver=1.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css'  href='https://therubyhub.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css'  href='https://therubyhub.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ea-admin-bar-css'  href='https://therubyhub.com/wp-content/plugins/essential-addons-for-elementor-lite//assets/admin/css/admin-bar.css?ver=3.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-style-css'  href='https://therubyhub.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://therubyhub.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://therubyhub.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.14' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://therubyhub.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.14' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='https://therubyhub.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=2.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jet-blog-css'  href='https://therubyhub.com/wp-content/plugins/jet-blog/assets/css/jet-blog.css?ver=2.1.16' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://therubyhub.com/wp-content/uploads/elementor/css/global.css?ver=1596697085' type='text/css' media='all' />
+<link rel='stylesheet' id='neve-style-css'  href='https://therubyhub.com/wp-content/themes/neve/style.min.css?ver=2.7.6' type='text/css' media='all' />
+<style id='neve-style-inline-css' type='text/css'>
+.header-menu-sidebar-inner li.menu-item-nav-search { display: none; }
+ .container{ max-width: 748px; } a{ color: #07499a; } .nv-loader{ border-color: #07499a; } a:hover, a:focus{ color: #4f4f4f; } body, .entry-title a, .entry-title a:hover, .entry-title a:focus{ color: #000000; } .has-neve-link-hover-color-color{ color: #4f4f4f!important; } .has-neve-link-color-color{ color: #07499a!important; } .has-neve-text-color-color{ color: #000000!important; } .has-neve-button-color-color{ color: #0366d6!important; } .has-neve-link-color-background-color{ background-color: #07499a!important; } .has-neve-link-hover-color-background-color{ background-color: #4f4f4f!important; } .has-neve-button-color-background-color{ background-color: #0366d6!important; } .has-neve-text-color-background-color{ background-color: #000000!important; } .single-post-container .alignfull > [class*="__inner-container"], .single-post-container .alignwide > [class*="__inner-container"]{ max-width:718px } .button.button-primary, button, input[type=button], .btn, input[type="submit"], /* Buttons in navigation */ ul[id^="nv-primary-navigation"] li.button.button-primary > a, .menu li.button.button-primary > a, .wp-block-button.is-style-primary .wp-block-button__link{ background-color: #0366d6;color: #ffffff;border-radius:3px;border:none;border-width:1px 1px 1px 1px; } .button.button-primary:hover, .nv-tags-list a:hover, ul[id^="nv-primary-navigation"] li.button.button-primary > a:hover, .menu li.button.button-primary > a:hover, .wp-block-button.is-style-primary .wp-block-button__link:hover { background-color: #0366d6;color: #ffffff; } .button.button-secondary, #comments input[type="submit"], .cart-off-canvas .button.nv-close-cart-sidebar, .wp-block-button.is-style-secondary .wp-block-button__link{ color: #676767;border-radius:3px;border:1px solid;border-width:1px 1px 1px 1px; } .button.button-secondary:hover, #comments input[type="submit"]:hover, .cart-off-canvas .button.nv-close-cart-sidebar:hover, .wp-block-button.is-style-secondary .wp-block-button__link:hover{ color: #676767; } .nv-tags-list a:hover{ background-color: #0366d6; } .nv-tags-list a{ color: #0366d6;border-color: #0366d6; } body, .site-title{ font-size: 15px; line-height: 1.6em; letter-spacing: 0px; font-weight: 200; text-transform: none; font-family: Poppins; } h1, .single h1.entry-title{ font-size: 50px; line-height: 1.6; letter-spacing: 0px; font-weight: 800; text-transform: none; font-family: Poppins; } h2{ font-size: 30px; line-height: 1.6; letter-spacing: 0px; font-weight: 800; text-transform: none; font-family: Poppins; } h3{ font-size: 25px; line-height: 1.6; letter-spacing: 0px; font-weight: 800; text-transform: none; font-family: Poppins; } h4{ font-size: 20px; line-height: 1.6; letter-spacing: 0px; font-weight: 800; text-transform: none; font-family: Poppins; } h5{ font-size: 16px; line-height: 1.6; letter-spacing: 0px; font-weight: 800; text-transform: none; font-family: Poppins; } h6{ font-size: 14px; line-height: 1.6; letter-spacing: 0px; font-weight: 800; text-transform: none; font-family: Poppins; } @media(min-width: 576px){ .container{ max-width: 992px; } .single-post-container .alignfull > [class*="__inner-container"], .single-post-container .alignwide > [class*="__inner-container"]{ max-width:962px } body, .site-title{ font-size: 16px; line-height: 1.6em; letter-spacing: 0px; } h1, .single h1.entry-title{ font-size: 80px; line-height: 1.6; letter-spacing: 0px; } h2{ font-size: 50px; line-height: 1.6; letter-spacing: 0px; } h3{ font-size: 25px; line-height: 1.6; letter-spacing: 0px; } h4{ font-size: 20px; line-height: 1.6; letter-spacing: 0px; } h5{ font-size: 16px; line-height: 1.6; letter-spacing: 0px; } h6{ font-size: 14px; line-height: 1.6; letter-spacing: 0px; } }@media(min-width: 960px){ .container{ max-width: 1200px; } .neve-main > .archive-container .nv-index-posts.col{ max-width: 100%; } .neve-main > .archive-container .nv-sidebar-wrap{ max-width: 0%; } .neve-main > .single-post-container .nv-single-post-wrap.col{ max-width: 70%; } .single-post-container .alignfull > [class*="__inner-container"], .single-post-container .alignwide > [class*="__inner-container"]{ max-width:810px } .container-fluid.single-post-container .alignfull > [class*="__inner-container"], .container-fluid.single-post-container .alignwide > [class*="__inner-container"]{ max-width:calc(70% + 15px) } .neve-main > .single-post-container .nv-sidebar-wrap{ max-width: 30%; } body, .site-title{ font-size: 15px; line-height: 1.7em; letter-spacing: 0px; } h1, .single h1.entry-title{ font-size: 100px; line-height: 1.2; letter-spacing: 0px; } h2{ font-size: 60px; line-height: 1.2; letter-spacing: 0px; } h3{ font-size: 30px; line-height: 1.6; letter-spacing: 0px; } h4{ font-size: 20px; line-height: 1.6; letter-spacing: 0px; } h5{ font-size: 16px; line-height: 1.6; letter-spacing: 0px; } h6{ font-size: 16px; line-height: 1.6; letter-spacing: 0px; } } .header-main-inner,.header-main-inner a:not(.button),.header-main-inner .navbar-toggle{ color: #404248; } .header-main-inner .nv-icon svg,.header-main-inner .nv-contact-list svg{ fill: #404248; } .header-main-inner .icon-bar{ background-color: #404248; } .hfg_header .header-main-inner .primary-menu-ul .sub-menu li:not(.neve-mm-divider),.hfg_header .header-main-inner .primary-menu-ul .sub-menu{ background-color: #07499a;border-color: #07499a; } .hfg_header .header-main-inner{ background-color: #07499a; } .header-bottom-inner,.header-bottom-inner a:not(.button),.header-bottom-inner .navbar-toggle{ color: #404248; } .header-bottom-inner .nv-icon svg,.header-bottom-inner .nv-contact-list svg{ fill: #404248; } .header-bottom-inner .icon-bar{ background-color: #404248; } .hfg_header .header-bottom-inner .primary-menu-ul .sub-menu li:not(.neve-mm-divider),.hfg_header .header-bottom-inner .primary-menu-ul .sub-menu{ background-color: #ffffff;border-color: #ffffff; } .hfg_header .header-bottom-inner{ background-color: #ffffff; } .header-menu-sidebar .header-menu-sidebar-bg,.header-menu-sidebar .header-menu-sidebar-bg a:not(.button),.header-menu-sidebar .header-menu-sidebar-bg .navbar-toggle{ color: #404248; } .header-menu-sidebar .header-menu-sidebar-bg .nv-icon svg,.header-menu-sidebar .header-menu-sidebar-bg .nv-contact-list svg{ fill: #404248; } .header-menu-sidebar .header-menu-sidebar-bg .icon-bar{ background-color: #404248; } .hfg_header .header-menu-sidebar .header-menu-sidebar-bg .primary-menu-ul .sub-menu li:not(.neve-mm-divider),.hfg_header .header-menu-sidebar .header-menu-sidebar-bg .primary-menu-ul .sub-menu{ background-color: #ffffff;border-color: #ffffff; } .hfg_header .header-menu-sidebar .header-menu-sidebar-bg{ background-color: #ffffff; } .builder-item--logo .site-logo img{ max-width: 120px; } .builder-item--logo .site-logo{ padding:10px 0px 10px 0px; } .builder-item--logo{ margin:0px 0px 0px 0px; } .builder-item--nav-icon .navbar-toggle, .header-menu-sidebar .close-sidebar-panel .navbar-toggle{ border-radius:3px;border:1px solid;border-width:1px; } .builder-item--nav-icon .navbar-toggle{ padding:10px 15px 10px 15px; } .builder-item--nav-icon{ margin:0px 0px 0px 0px; } .builder-item--primary-menu .nav-menu-primary > .primary-menu-ul li:not(.woocommerce-mini-cart-item) > a{ color: #000000; } .builder-item--primary-menu .nav-menu-primary > .primary-menu-ul li > .amp-caret-wrap svg{ fill: #000000; } .builder-item--primary-menu .nav-menu-primary > .primary-menu-ul li:not(.woocommerce-mini-cart-item) > a:after{ background-color: #474747; } .builder-item--primary-menu .nav-menu-primary:not(.style-full-height) > .primary-menu-ul li:not(.woocommerce-mini-cart-item):hover > a{ color: #474747; } .builder-item--primary-menu .nav-menu-primary > .primary-menu-ul li:hover > .amp-caret-wrap svg{ fill: #474747; } .builder-item--primary-menu .nav-menu-primary > .primary-menu-ul li.current-menu-item > a,.builder-item--primary-menu .nav-menu-primary > .primary-menu-ul li.current_page_item > a{ color: #474747; } .builder-item--primary-menu .nav-menu-primary > .primary-menu-ul li.current-menu-item > .amp-caret-wrap svg{ fill: #474747; } .builder-item--primary-menu .primary-menu-ul > li > a{ height: 25px; } .builder-item--primary-menu li > a{ font-size: 1em; line-height: 1.6em; letter-spacing: 0px; font-weight: 500; text-transform: none; } .builder-item--primary-menu li > a svg{ width: 1em;height: 1em; } .builder-item--primary-menu{ padding:0px 0px 0px 0px;margin:0px 0px 0px 0px; } .builder-item--button_base > .component-wrap > a.button{ background-color: #07499a;border-radius:3px 3px 3px 3px;border:none;border-width:1px 1px 1px 1px;padding:8px 12px 8px 12px; } .builder-item--button_base{ margin:0px 0px 0px 0px; } .footer-bottom-inner{ background-color: #000000; } .footer-bottom-inner,.footer-bottom-inner a:not(.button),.footer-bottom-inner .navbar-toggle{ color: #ffffff; } .footer-bottom-inner .nv-icon svg,.footer-bottom-inner .nv-contact-list svg{ fill: #ffffff; } .footer-bottom-inner .icon-bar{ background-color: #ffffff; } .footer-bottom-inner .primary-menu-ul .sub-menu li:not(.neve-mm-divider),.footer-bottom-inner .primary-menu-ul .sub-menu{ background-color: #000000;border-color: #000000; } .builder-item--footer_copyright{ font-size: 1em; line-height: 1.6em; letter-spacing: 0px; font-weight: 200; text-transform: none; padding:0px 0px 0px 0px;margin:0px 0px 0px 0px; } .builder-item--footer_copyright svg{ width: 1em;height: 1em; } @media(min-width: 576px){ .builder-item--logo .site-logo img{ max-width: 120px; } .builder-item--logo .site-logo{ padding:10px 0px 10px 0px; } .builder-item--logo{ margin:0px 0px 0px 0px; } .builder-item--nav-icon .navbar-toggle{ padding:10px 15px 10px 15px; } .builder-item--nav-icon{ margin:0px 0px 0px 0px; } .builder-item--primary-menu li > a{ font-size: 1em; line-height: 1.6em; letter-spacing: 0px; } .builder-item--primary-menu li > a svg{ width: 1em;height: 1em; } .builder-item--primary-menu{ padding:0px 0px 0px 0px;margin:0px 0px 0px 0px; } .builder-item--button_base > .component-wrap > a.button{ padding:8px 12px 8px 12px; } .builder-item--button_base{ margin:0px 0px 0px 0px; } .builder-item--footer_copyright{ font-size: 1em; line-height: 1.6em; letter-spacing: 0px; padding:0px 0px 0px 0px;margin:0px 0px 0px 0px; } .builder-item--footer_copyright svg{ width: 1em;height: 1em; } }@media(min-width: 960px){ .builder-item--logo .site-logo img{ max-width: 120px; } .builder-item--logo .site-logo{ padding:10px 10px 10px 0px; } .builder-item--logo{ margin:0px 0px 0px 0px; } .builder-item--nav-icon .navbar-toggle{ padding:10px 15px 10px 15px; } .builder-item--nav-icon{ margin:0px 0px 0px 0px; } .header--row .hfg-item-right .builder-item--primary-menu .primary-menu-ul > li:not(:first-of-type){ margin-left:20px; } .header--row .hfg-item-center .builder-item--primary-menu .primary-menu-ul > li:not(:last-of-type), .header--row .hfg-item-left .builder-item--primary-menu .primary-menu-ul > li:not(:last-of-type){ margin-right:20px; } .builder-item--primary-menu .style-full-height .primary-menu-ul > li:not(.menu-item-nav-search):not(.menu-item-nav-cart) > a:after{ left:-10px;right:-10px } .builder-item--primary-menu .style-full-height .primary-menu-ul:not(#nv-primary-navigation-sidebar) > li:not(.menu-item-nav-search):not(.menu-item-nav-cart):hover > a:after{ width: calc(100% + 20px)!important; } .builder-item--primary-menu li > a{ font-size: 1em; line-height: 1.6em; letter-spacing: 0px; } .builder-item--primary-menu li > a svg{ width: 1em;height: 1em; } .builder-item--primary-menu{ padding:0px 0px 0px 0px;margin:0px 0px 0px 0px; } .builder-item--button_base > .component-wrap > a.button{ padding:8px 12px 8px 12px; } .builder-item--button_base{ margin:0px 0px 0px 0px; } .builder-item--footer_copyright{ font-size: 1em; line-height: 1.6em; letter-spacing: 0px; padding:0px 0px 0px 0px;margin:0px 0px 0px 0px; } .builder-item--footer_copyright svg{ width: 1em;height: 1em; } }
+</style>
+<link rel='stylesheet' id='elementor-post-786-css'  href='https://therubyhub.com/wp-content/uploads/elementor/css/post-786.css?ver=1596697085' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-widgets-style-css'  href='https://therubyhub.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-701-css'  href='https://therubyhub.com/wp-content/uploads/elementor/css/post-701.css?ver=1600348202' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-776-css'  href='https://therubyhub.com/wp-content/uploads/elementor/css/post-776.css?ver=1597242437' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-2092-css'  href='https://therubyhub.com/wp-content/uploads/elementor/css/post-2092.css?ver=1602605281' type='text/css' media='all' />
+<link rel='stylesheet' id='um_fonticons_ii-css'  href='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/css/um-fonticons-ii.css?ver=2.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='um_fonticons_fa-css'  href='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/css/um-fonticons-fa.css?ver=2.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css'  href='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/css/select2/select2.min.css?ver=2.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='um_crop-css'  href='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/css/um-crop.css?ver=2.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='um_modal-css'  href='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/css/um-modal.css?ver=2.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='um_styles-css'  href='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/css/um-styles.css?ver=2.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='um_members-css'  href='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/css/um-members.css?ver=2.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='um_profile-css'  href='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/css/um-profile.css?ver=2.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='um_account-css'  href='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/css/um-account.css?ver=2.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='um_misc-css'  href='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/css/um-misc.css?ver=2.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='um_fileupload-css'  href='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/css/um-fileupload.css?ver=2.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='um_datetime-css'  href='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/css/pickadate/default.css?ver=2.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='um_datetime_date-css'  href='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/css/pickadate/default.date.css?ver=2.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='um_datetime_time-css'  href='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/css/pickadate/default.time.css?ver=2.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='um_raty-css'  href='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/css/um-raty.css?ver=2.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='um_scrollbar-css'  href='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/css/simplebar.css?ver=2.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='um_tipsy-css'  href='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/css/um-tipsy.css?ver=2.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='um_responsive-css'  href='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/css/um-responsive.css?ver=2.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='um_default_css-css'  href='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/css/um-old-default.css?ver=2.0.56' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='neve-google-font-poppins-css'  href='//fonts.googleapis.com/css?family=Poppins%3A200%2C400%2C800&#038;display=swap&#038;ver=5.4.4' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMuli%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Mono%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLora%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COpen+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://therubyhub.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='https://therubyhub.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.12.0' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/therubyhub.com","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.10.4'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js?ver=1.12.1'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/js/admin-bar.js?ver=3.3.2'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/js/um-gdpr.min.js?ver=2.0.56'></script>
+<link rel='https://api.w.org/' href='https://therubyhub.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://therubyhub.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://therubyhub.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.4" />
+<link rel='shortlink' href='https://therubyhub.com/?p=1243' />
+<link rel="alternate" type="application/json+oembed" href="https://therubyhub.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftherubyhub.com%2Fcustomer-success-the-number-one-reason-amazon-is-successful%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://therubyhub.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftherubyhub.com%2Fcustomer-success-the-number-one-reason-amazon-is-successful%2F&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.8.1" /><script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '2225175507746652');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=2225175507746652&ev=PageView&noscript=1"
+/></noscript><!-- Enter your scripts here -->		<style type="text/css">
+			.request_name {
+				display: none !important;
+			}
+		</style>
+	<style type="text/css" id="tve_global_variables">:root{}</style><link rel="amphtml" href="https://therubyhub.com/customer-success-the-number-one-reason-amazon-is-successful/amp/"><style type="text/css" id="thrive-default-styles"></style><link rel="icon" href="https://therubyhub.com/wp-content/uploads/2019/09/RH-16x16.png" sizes="32x32" />
+<link rel="icon" href="https://therubyhub.com/wp-content/uploads/2019/09/RH-16x16.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://therubyhub.com/wp-content/uploads/2019/09/RH-16x16.png" />
+<meta name="msapplication-TileImage" content="https://therubyhub.com/wp-content/uploads/2019/09/RH-16x16.png" />
+</head>
+
+<body data-rsssl=1  class="post-template-default single single-post postid-1243 single-format-standard wp-custom-logo ehf-template-neve ehf-stylesheet-neve nv-sidebar-right nv-empty-sidebar menu_sidebar_slide_left elementor-default elementor-kit-1944 elementor-page-2092" id="neve_body"  >
+<div class="wrapper">
+		<header class="header" role="banner">
+		<a class="neve-skip-link show-on-focus" href="#content" tabindex="0">
+			Skip to content		</a>
+				<div data-elementor-type="header" data-elementor-id="701" class="elementor elementor-701 elementor-location-header" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-466e409 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="466e409" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-4cfe006 elementor-column elementor-col-100 elementor-top-column" data-id="4cfe006" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-84cb1a7 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="84cb1a7" data-element_type="widget" data-widget_type="theme-site-logo.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://therubyhub.com">
+							<img width="767" height="245" src="https://therubyhub.com/wp-content/uploads/2019/09/cropped-RH-230x90-1.png" class="attachment-full size-full" alt="" srcset="https://therubyhub.com/wp-content/uploads/2019/09/cropped-RH-230x90-1.png 767w, https://therubyhub.com/wp-content/uploads/2019/09/cropped-RH-230x90-1-300x96.png 300w" sizes="(max-width: 767px) 100vw, 767px" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-a789f1c elementor-column elementor-col-100 elementor-top-column" data-id="a789f1c" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1e5926e elementor-nav-menu__align-left elementor-nav-menu--indicator-chevron elementor-nav-menu--stretch elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="1e5926e" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none"><ul id="menu-1-1e5926e" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2185"><a href="https://therubyhub.com" class="elementor-item">HOME</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2263"><a href="#" class="elementor-item elementor-item-anchor">SALES PROCESS</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2228"><a href="https://therubyhub.com/category/sales/" class="elementor-sub-item">Sales</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2264"><a href="#" class="elementor-item elementor-item-anchor">SALES TECHNOLOGY</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2229"><a href="https://therubyhub.com/category/innovation/" class="elementor-sub-item">Innovation</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2265"><a href="#" class="elementor-item elementor-item-anchor">SALES ENABLEMENT</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2230"><a href="https://therubyhub.com/category/customer-service/" class="elementor-sub-item">Customer Success</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2231"><a href="https://therubyhub.com/category/enterprise/" class="elementor-sub-item">Enterprise</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2266"><a href="#" class="elementor-item elementor-item-anchor">CLOSING</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2232"><a href="https://therubyhub.com/category/the-ceos-desk/" class="elementor-sub-item">The CEO&#8217;s Desk</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2038"><a href="https://therubyhub.com/category/sales/" class="elementor-sub-item">Sales</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2039"><a href="https://therubyhub.com/category/articles/" class="elementor-sub-item">Articles</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2040"><a href="https://therubyhub.com/category/customer-service/" class="elementor-sub-item">Customer Success</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2041"><a href="https://therubyhub.com/category/enterprise/" class="elementor-sub-item">Enterprise</a></li>
+</ul>
+</li>
+</ul></nav>
+					<div class="elementor-menu-toggle">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"><ul id="menu-2-1e5926e" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2185"><a href="https://therubyhub.com" class="elementor-item">HOME</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2263"><a href="#" class="elementor-item elementor-item-anchor">SALES PROCESS</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2228"><a href="https://therubyhub.com/category/sales/" class="elementor-sub-item">Sales</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2264"><a href="#" class="elementor-item elementor-item-anchor">SALES TECHNOLOGY</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2229"><a href="https://therubyhub.com/category/innovation/" class="elementor-sub-item">Innovation</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2265"><a href="#" class="elementor-item elementor-item-anchor">SALES ENABLEMENT</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2230"><a href="https://therubyhub.com/category/customer-service/" class="elementor-sub-item">Customer Success</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2231"><a href="https://therubyhub.com/category/enterprise/" class="elementor-sub-item">Enterprise</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2266"><a href="#" class="elementor-item elementor-item-anchor">CLOSING</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2232"><a href="https://therubyhub.com/category/the-ceos-desk/" class="elementor-sub-item">The CEO&#8217;s Desk</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2038"><a href="https://therubyhub.com/category/sales/" class="elementor-sub-item">Sales</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2039"><a href="https://therubyhub.com/category/articles/" class="elementor-sub-item">Articles</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2040"><a href="https://therubyhub.com/category/customer-service/" class="elementor-sub-item">Customer Success</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2041"><a href="https://therubyhub.com/category/enterprise/" class="elementor-sub-item">Enterprise</a></li>
+</ul>
+</li>
+</ul></nav>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-23d4e6b elementor-column elementor-col-100 elementor-top-column" data-id="23d4e6b" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-fbcca65 elementor-search-form--skin-full_screen elementor-widget elementor-widget-search-form" data-id="fbcca65" data-element_type="widget" data-settings="{&quot;skin&quot;:&quot;full_screen&quot;}" data-widget_type="search-form.default">
+				<div class="elementor-widget-container">
+					<form class="elementor-search-form" role="search" action="https://therubyhub.com" method="get">
+			 
+						<div class="elementor-search-form__toggle">
+				<i aria-hidden="true" class="fas fa-search"></i>				<span class="elementor-screen-only">Search</span>
+			</div>
+						<div class="elementor-search-form__container">
+								<input placeholder="Search..." class="elementor-search-form__input" type="search" name="s" title="Search" value="">
+																<div class="dialog-lightbox-close-button dialog-close-button">
+					<i class="eicon-close" aria-hidden="true"></i>
+					<span class="elementor-screen-only">Close</span>
+				</div>
+							</div>
+		</form>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-6d236a4 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="6d236a4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+			</header>
+		
+	<main id="content" class="neve-main" role="main">
+
+	<div class="container single-post-container">
+		<div class="row">
+						<article id="post-1243"
+					class="nv-single-post-wrap col post-1243 post type-post status-publish format-standard has-post-thumbnail hentry category-customer-service">
+						<div data-elementor-type="single" data-elementor-id="2092" class="elementor elementor-2092 elementor-location-single post-1243 post type-post status-publish format-standard has-post-thumbnail hentry category-customer-service" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-215c521 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="215c521" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-5c78ca3 elementor-column elementor-col-100 elementor-top-column" data-id="5c78ca3" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-34350c7 elementor-widget elementor-widget-spacer" data-id="34350c7" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-d3350b6 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="d3350b6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-c64141e elementor-column elementor-col-100 elementor-top-column" data-id="c64141e" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-581664c elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="581664c" data-element_type="widget" data-widget_type="theme-post-title.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-medium">Customer Success &#8211; The Number One Reason Amazon is Successful.</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b76adea elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="b76adea" data-element_type="widget" data-widget_type="theme-post-featured-image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="225" height="225" src="https://therubyhub.com/wp-content/uploads/2019/11/amazon.png" class="attachment-large size-large" alt="how amazon drives customer sucesss" srcset="https://therubyhub.com/wp-content/uploads/2019/11/amazon.png 225w, https://therubyhub.com/wp-content/uploads/2019/11/amazon-150x150.png 150w" sizes="(max-width: 225px) 100vw, 225px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-bc51672 elementor-align-center elementor-widget elementor-widget-post-info" data-id="bc51672" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+					<li class="elementor-icon-list-item elementor-repeater-item-48ee254 elementor-inline-item" >
+						<a href="https://therubyhub.com/author/seun-odegbami/">
+										<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-user-circle"></i>					</span>
+								<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-author">
+										Seun Odegbami					</span>
+									</a>
+				</li>
+				<li class="elementor-icon-list-item elementor-repeater-item-16ff398 elementor-inline-item" >
+						<a href="https://therubyhub.com/2019/11/20/">
+										<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-calendar"></i>					</span>
+								<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date">
+										November 20, 2019					</span>
+									</a>
+				</li>
+				<li class="elementor-icon-list-item elementor-repeater-item-e9aa913 elementor-inline-item" itemprop="about">
+									<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-tags"></i>					</span>
+								<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+										<span class="elementor-post-info__terms-list">
+				<a href="https://therubyhub.com/category/customer-service/" class="elementor-post-info__terms-list-item">Customer Success</a>				</span>
+					</span>
+								</li>
+				</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b71a986 elementor-widget elementor-widget-theme-post-content" data-id="b71a986" data-element_type="widget" data-widget_type="theme-post-content.default">
+				<div class="elementor-widget-container">
+			<p>Amazon is one organization that is laser-focused on its customers. A lot of product developers and marketing managers start with ideas and innovations and then try to convince the customer to love the product when all they need to do is get the perception from your customers first and then convincing investors and management that your product is marketable becomes easy.</p>
+<p><strong>Amazon Prime</strong> was developed when it found out customers wanted products fast which also had more quality at less price and it seemed like the perfect solution which eventually has become one.</p>
+<p>When it released the press statement for Prime, it focused on the customer from heading to summary to problems customers were facing, the solutions, and then a call to action. Customers began raving about the product when it was released.</p>
+<p>It is no news that a lot of companies try to compete against Amazon. But working backward from a customer won&#8217;t work. In simple words, they have a customer-led innovation that is monetized which drives Amazon’s core.</p>
+<p>You may ask; how then do they tap into customer feedback.</p>
+<p>There are different ways of listening to customers and one of them is through data, so if you are constantly remodeling, building and milking data, customers will lead you to great offerings when you use data properly.</p>
+<p>Truth is we have entered into the <strong>age of the customer</strong> and social media amplifies the conversations and delivery. You will also notice a lot of business models focusing on subscription-based models but how does this affect <strong>customer success.</strong></p>
+<p>Subscription builds relationships and companies like Amazon and Netflix are driving this aggressively because making customers successful should be our number one goal.</p>
+<p>Good relationships will make you create product offerings like Amazon’s prime and Amazon’s smile thereby increasing customers&#8217; spend on your business which means an increase in <strong>customer lifetime value</strong> and ultimately revenue for your business like Netflix and Amazon.</p>
+<p>If you are not focused on customer success or not been obsessive about it, you will be losing out big time on returns.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-6d2cff2 elementor-share-buttons--shape-circle elementor-share-buttons--align-center elementor-share-buttons--view-icon-text elementor-share-buttons--skin-gradient elementor-grid-0 elementor-share-buttons--color-official elementor-widget elementor-widget-share-buttons" data-id="6d2cff2" data-element_type="widget" data-widget_type="share-buttons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-grid">
+							<div class="elementor-grid-item">
+					<div class="elementor-share-btn elementor-share-btn_facebook">
+													<span class="elementor-share-btn__icon">
+								<i class="fab fa-facebook" aria-hidden="true"></i>
+								<span class="elementor-screen-only">Share on facebook</span>
+							</span>
+																	</div>
+				</div>
+								<div class="elementor-grid-item">
+					<div class="elementor-share-btn elementor-share-btn_google">
+													<span class="elementor-share-btn__icon">
+								<i class="fab fa-google-plus-g" aria-hidden="true"></i>
+								<span class="elementor-screen-only">Share on google</span>
+							</span>
+																	</div>
+				</div>
+								<div class="elementor-grid-item">
+					<div class="elementor-share-btn elementor-share-btn_twitter">
+													<span class="elementor-share-btn__icon">
+								<i class="fab fa-twitter" aria-hidden="true"></i>
+								<span class="elementor-screen-only">Share on twitter</span>
+							</span>
+																	</div>
+				</div>
+								<div class="elementor-grid-item">
+					<div class="elementor-share-btn elementor-share-btn_linkedin">
+													<span class="elementor-share-btn__icon">
+								<i class="fab fa-linkedin" aria-hidden="true"></i>
+								<span class="elementor-screen-only">Share on linkedin</span>
+							</span>
+																	</div>
+				</div>
+						</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1529569 elementor-post-navigation-borders-yes elementor-widget elementor-widget-post-navigation" data-id="1529569" data-element_type="widget" data-widget_type="post-navigation.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-post-navigation elementor-grid">
+			<div class="elementor-post-navigation__prev elementor-post-navigation__link">
+				<a href="https://therubyhub.com/five-critical-things-to-improve-if-you-want-to-double-sales-results-2/" rel="prev"><span class="elementor-post-navigation__link__prev"><span class="post-navigation__prev--label">Previous</span><span class="post-navigation__prev--title">Five Critical Things to Improve If You Want to Double Sales Results</span></span></a>			</div>
+							<div class="elementor-post-navigation__separator-wrapper">
+					<div class="elementor-post-navigation__separator"></div>
+				</div>
+						<div class="elementor-post-navigation__next elementor-post-navigation__link">
+				<a href="https://therubyhub.com/four-ways-google-has-differentiated-itself-apple-and-other-tech-giants/" rel="next"><span class="elementor-post-navigation__link__next"><span class="post-navigation__next--label">Next</span><span class="post-navigation__next--title">Four ways Google has differentiated itself from Apple and Other Tech Giants</span></span></a>			</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-484798a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="484798a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-402857b elementor-column elementor-col-100 elementor-top-column" data-id="402857b" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2633d64 elementor-widget elementor-widget-post-comments" data-id="2633d64" data-element_type="widget" data-widget_type="post-comments.theme_comments">
+				<div class="elementor-widget-container">
+			
+<div id="disqus_thread"></div>
+		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+					</article>
+					</div>
+	</div>
+</main><!--/.neve-main-->
+
+
+		<div data-elementor-type="footer" data-elementor-id="776" class="elementor elementor-776 elementor-location-footer" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-4330f6a elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="4330f6a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-wider">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-24de21c elementor-column elementor-col-33 elementor-top-column" data-id="24de21c" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-29bc9349 elementor-widget elementor-widget-image" data-id="29bc9349" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://therubyhub.com">
+							<img width="907" height="300" src="https://therubyhub.com/wp-content/uploads/2019/09/RH-272x90.png" class="attachment-large size-large" alt="Business and entertainment -the rub hub" srcset="https://therubyhub.com/wp-content/uploads/2019/09/RH-272x90.png 907w, https://therubyhub.com/wp-content/uploads/2019/09/RH-272x90-300x99.png 300w, https://therubyhub.com/wp-content/uploads/2019/09/RH-272x90-768x254.png 768w" sizes="(max-width: 907px) 100vw, 907px" />								</a>
+											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9a748d2 elementor-widget elementor-widget-text-editor" data-id="9a748d2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>RubyHub is a collection of articles revolving around Sales, Innovation, Customer Experience, Sales Process, Sales Technology and Sales Enablement etc.</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-3392d3c elementor-column elementor-col-33 elementor-top-column" data-id="3392d3c" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2de28dd elementor-widget elementor-widget-text-editor" data-id="2de28dd" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Get actionable sales &amp; revenue tips straight to your inbox</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1d36907b elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="1d36907b" data-element_type="widget" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+					<form class="elementor-form" method="post" name="New Form">
+			<input type="hidden" name="post_id" value="776"/>
+			<input type="hidden" name="form_id" value="1d36907b"/>
+
+			<div class="elementor-form-fields-wrapper elementor-labels-">
+								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-40 elementor-field-required">
+					<label for="form-field-email" class="elementor-field-label elementor-screen-only">Email</label><input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-md  elementor-field-textual" placeholder="Enter your email" required="required" aria-required="true">				</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-33">
+					<button type="submit" class="elementor-button elementor-size-md">
+						<span >
+															<span class=" elementor-button-icon">
+																										</span>
+																						<span class="elementor-button-text">Sign me up</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d3fa34c elementor-shape-circle elementor-widget elementor-widget-social-icons" data-id="d3fa34c" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper">
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-ff806d1" target="_blank">
+					<span class="elementor-screen-only">Facebook</span>
+					<i class="fab fa-facebook"></i>				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-c745f96" href="https://twitter.com/SalesRubyNG" target="_blank">
+					<span class="elementor-screen-only">Twitter</span>
+					<i class="fab fa-twitter"></i>				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-55d8bb0" href="https://www.linkedin.com/company/salesruby" target="_blank">
+					<span class="elementor-screen-only">Linkedin</span>
+					<i class="fab fa-linkedin"></i>				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-afc13a1" href="https://www.instagram.com/salesruby" target="_blank">
+					<span class="elementor-screen-only">Instagram</span>
+					<i class="fab fa-instagram"></i>				</a>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-89e9740 elementor-column elementor-col-33 elementor-top-column" data-id="89e9740" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-82f615e elementor-widget elementor-widget-text-editor" data-id="82f615e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Join our Facebook community of over 600+ CEOs and Revenue leaders who consistently drop insights into how to grow the bottom line.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-cb28cbc elementor-align-left elementor-widget elementor-widget-button" data-id="cb28cbc" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://web.facebook.com/groups/155388438376006" class="elementor-button-link elementor-button elementor-size-md" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Yes, I Want To Join!</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e536ae8 elementor-widget elementor-widget-text-editor" data-id="e536ae8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>SalesRuby © 2020 All Rights Reserved</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		
+</div><!--/.wrapper-->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var hasJetBlogPlaylist = 0;
+/* ]]> */
+</script>
+
+<div id="um_upload_single" style="display:none"></div>
+<div id="um_view_photo" style="display:none">
+
+	<a href="javascript:void(0);" data-action="um_remove_modal" class="um-modal-close"><i class="um-faicon-times"></i></a>
+
+	<div class="um-modal-body photo">
+		<div class="um-modal-photo"></div>
+	</div>
+
+</div><!-- Click to Chat - https://holithemes.com/plugins/click-to-chat/  v2.12.1 -->  
+            <div title = 'Need help? Send us a messsage' onclick="ht_ctc_click(this);" class="ht-ctc ht-ctc-chat style-3 desktop ctc-analytics " 
+                style="display: none; position: fixed; bottom: 10px; right: 10px;"
+                data-return_type="chat" 
+                data-style="3" 
+                data-number="2349070047685" 
+                data-pre_filled="Hello, SalesRuby! I would like to make request about 
+
+
+From The Ruby Hub" 
+                data-is_ga_enable="yes" 
+                data-is_fb_pixel="no" 
+                data-is_fb_an_enable="no" 
+                data-webandapi="webapi" 
+                data-display_mobile="show" 
+                data-display_desktop="show" 
+                data-css="display: none; cursor: pointer; z-index: 99999999;" 
+                data-position="position: fixed; bottom: 10px; right: 10px;" 
+                data-position_mobile="position: fixed; bottom: 10px; right: 10px;" 
+                >
+                    <style>
+    .ht-ctc:hover svg stop{stop-color:#25D366;}
+    .ht-ctc:hover .ht_ctc_padding{background-color:#25D366 !important;}
+    </style>
+
+
+    <div class="ht_ctc_padding" style="background-color: #25D366; padding: 16px; border-radius: 50%; ">
+        <svg style="pointer-events:none; display:block; height:40px; width:40px;" width="40px" height="40px" viewBox="0 0 1219.547 1225.016">
+        <path fill="#E0E0E0" d="M1041.858 178.02C927.206 63.289 774.753.07 612.325 0 277.617 0 5.232 272.298 5.098 606.991c-.039 106.986 27.915 211.42 81.048 303.476L0 1225.016l321.898-84.406c88.689 48.368 188.547 73.855 290.166 73.896h.258.003c334.654 0 607.08-272.346 607.222-607.023.056-162.208-63.052-314.724-177.689-429.463zm-429.533 933.963h-.197c-90.578-.048-179.402-24.366-256.878-70.339l-18.438-10.93-191.021 50.083 51-186.176-12.013-19.087c-50.525-80.336-77.198-173.175-77.16-268.504.111-278.186 226.507-504.503 504.898-504.503 134.812.056 261.519 52.604 356.814 147.965 95.289 95.36 147.728 222.128 147.688 356.948-.118 278.195-226.522 504.543-504.693 504.543z"/>
+        <linearGradient id="htwaicona-chat" gradientUnits="userSpaceOnUse" x1="609.77" y1="1190.114" x2="609.77" y2="21.084">
+            <stop offset="0" stop-color="#25D366"/>
+            <stop offset="1" stop-color="#25D366"/>
+        </linearGradient>
+        <path fill="url(#htwaicona-chat)" d="M27.875 1190.114l82.211-300.18c-50.719-87.852-77.391-187.523-77.359-289.602.133-319.398 260.078-579.25 579.469-579.25 155.016.07 300.508 60.398 409.898 169.891 109.414 109.492 169.633 255.031 169.57 409.812-.133 319.406-260.094 579.281-579.445 579.281-.023 0 .016 0 0 0h-.258c-96.977-.031-192.266-24.375-276.898-70.5l-307.188 80.548z"/>
+        <image overflow="visible" opacity=".08" width="682" height="639" transform="translate(270.984 291.372)"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" fill="#FFF" d="M462.273 349.294c-11.234-24.977-23.062-25.477-33.75-25.914-8.742-.375-18.75-.352-28.742-.352-10 0-26.25 3.758-39.992 18.766-13.75 15.008-52.5 51.289-52.5 125.078 0 73.797 53.75 145.102 61.242 155.117 7.5 10 103.758 166.266 256.203 226.383 126.695 49.961 152.477 40.023 179.977 37.523s88.734-36.273 101.234-71.297c12.5-35.016 12.5-65.031 8.75-71.305-3.75-6.25-13.75-10-28.75-17.5s-88.734-43.789-102.484-48.789-23.75-7.5-33.75 7.516c-10 15-38.727 48.773-47.477 58.773-8.75 10.023-17.5 11.273-32.5 3.773-15-7.523-63.305-23.344-120.609-74.438-44.586-39.75-74.688-88.844-83.438-103.859-8.75-15-.938-23.125 6.586-30.602 6.734-6.719 15-17.508 22.5-26.266 7.484-8.758 9.984-15.008 14.984-25.008 5-10.016 2.5-18.773-1.25-26.273s-32.898-81.67-46.234-111.326z"/>
+        <path fill="#FFF" d="M1036.898 176.091C923.562 62.677 772.859.185 612.297.114 281.43.114 12.172 269.286 12.039 600.137 12 705.896 39.633 809.13 92.156 900.13L7 1211.067l318.203-83.438c87.672 47.812 186.383 73.008 286.836 73.047h.255.003c330.812 0 600.109-269.219 600.25-600.055.055-160.343-62.328-311.108-175.649-424.53zm-424.601 923.242h-.195c-89.539-.047-177.344-24.086-253.93-69.531l-18.227-10.805-188.828 49.508 50.414-184.039-11.875-18.867c-49.945-79.414-76.312-171.188-76.273-265.422.109-274.992 223.906-498.711 499.102-498.711 133.266.055 258.516 52 352.719 146.266 94.195 94.266 146.031 219.578 145.992 352.852-.118 274.999-223.923 498.749-498.899 498.749z"/>
+    </svg>    </div>
+                </div>
+            <!-- Enter your scripts here --><div
+				class="hustle-ui hustle-slidein hustle-palette--default hustle_module_id_3 module_id_3  "
+				
+			data-id="3"
+			data-render-id="0"
+			data-tracking="disabled"
+			
+				data-position="w"
+				data-close-delay="false"
+				data-has-shadow="0"
+				
+				style="opacity: 0;"
+			><div class="hustle-slidein-content"><div class="hustle-optin hustle-optin--focus-optin"><button class="hustle-button-icon hustle-button-close">
+			<i class="hustle-icon-close" aria-hidden="true"></i>
+			<span class="hustle-screen-reader">Close this module</span>
+		</button><div class="hustle-success" data-close-delay="false" style="display: none;"><i class="hustle-icon-check" aria-hidden="true"></i><div class="hustle-success-content"></div></div><div class="hustle-layout"><div class="hustle-layout-body"><div class="hustle-layout-content"><div class="hustle-image hustle-image-fit--contain" aria-hidden="true"><img src="https://therubyhub.com/wp-content/uploads/2019/09/download.png" class="hustle-image-position--centercenter" /></div><div class="hustle-content"><div class="hustle-content-wrap"><div class="hustle-group-title"><span class="hustle-title">Join In the Car Auction</span><span class="hustle-subtitle">Powered by Cars 45</span></div></div></div></div><form class="hustle-layout-form"><div class="hustle-form"><div class="hustle-form-fields hustle-proximity-separated"><label for="hustle-field-first_name-module-3" class="hustle-field hustle-field-icon--animated hustle-field-required "><input type="name" class="hustle-input " name="first_name" value="" /><span class="hustle-input-label"><i class="hustle-icon-name"></i><span> Name and Surname</span></span></label><label for="hustle-field-email-module-3" class="hustle-field hustle-field-icon--animated hustle-field-required "><input type="email" class="hustle-input " name="email" value="" /><span class="hustle-input-label"><i class="hustle-icon-email"></i><span>johnsmith@example.com</span></span></label><label for="hustle-field-phone-module-3" class="hustle-field hustle-field-icon--animated hustle-field-required "><input type="text" class="hustle-input " name="phone" value="" /><span class="hustle-input-label"><i class="hustle-icon-phone"></i><span>Your Phone Number</span></span></label><label for="hustle-field-text-module-3" class="hustle-field hustle-field-icon--animated hustle-field-required "><input type="text" class="hustle-input " name="text" value="" /><span class="hustle-input-label"><i class="hustle-icon-text"></i><span>Your price</span></span></label><button class="hustle-button hustle-button-submit"><span class="hustle-button-text">Submit</span><span class="hustle-loading-text">Form is being submitted, please wait a bit.</span><i class="hustle-icon-loader hustle-loading-icon" aria-hidden="true"></i></button></div></div><input type="hidden" name="hustle_module_id" value="3"><input type="hidden" name="post_id" value="1243"><div class="hustle-error-message" style="display: none;" data-default-error="Something went wrong, please try again." data-required-error="Please fill out all required fields."><p>Please fill out all required fields.</p></div></form></div></div></div></div></div><div
+				class="hustle-ui hustle-slidein hustle-palette--default hustle_module_id_4 module_id_4  "
+				
+			data-id="4"
+			data-render-id="0"
+			data-tracking="disabled"
+			
+				data-position="e"
+				data-close-delay="false"
+				data-has-shadow="0"
+				
+				style="opacity: 0;"
+			><div class="hustle-slidein-content"><div class="hustle-optin hustle-optin--compact"><button class="hustle-button-icon hustle-button-close">
+			<i class="hustle-icon-close" aria-hidden="true"></i>
+			<span class="hustle-screen-reader">Close this module</span>
+		</button><div class="hustle-optin-content"><div class="hustle-layout"><div class="hustle-layout-body"><div class="hustle-image hustle-image-fit--contain" aria-hidden="true"><img src="https://therubyhub.com/wp-content/uploads/2019/09/download-1.jpg" class="hustle-image-position--centercenter" /></div><div class="hustle-layout-content"><div class="hustle-content"><div class="hustle-content-wrap"><div class="hustle-group-title"><span class="hustle-title">Let Hear Your View! </span><span class="hustle-subtitle">Powered by Salesruby</span></div><div class="hustle-group-content"><h3>Enter your details here to participate in the Insight Section. </h3></div></div></div><form class="hustle-layout-form"><div class="hustle-form hustle-form-inline"><div class="hustle-form-fields hustle-proximity-separated"><label for="hustle-field-first_name-module-4" class="hustle-field hustle-field-icon--animated hustle-field-required "><input type="name" class="hustle-input " name="first_name" value="" /><span class="hustle-input-label"><i class="hustle-icon-name"></i><span> Name and Surname</span></span></label><label for="hustle-field-email-module-4" class="hustle-field hustle-field-icon--animated hustle-field-required "><input type="email" class="hustle-input " name="email" value="" /><span class="hustle-input-label"><i class="hustle-icon-email"></i><span>johnsmith@example.com</span></span></label><label for="hustle-field-phone-module-4" class="hustle-field hustle-field-icon--animated hustle-field-required "><input type="text" class="hustle-input " name="phone" value="" /><span class="hustle-input-label"><i class="hustle-icon-phone"></i><span>Your Phone Number</span></span></label><button class="hustle-button hustle-button-submit"><span class="hustle-button-text">Submit</span><span class="hustle-loading-text">Form is being submitted, please wait a bit.</span><i class="hustle-icon-loader hustle-loading-icon" aria-hidden="true"></i></button></div></div><input type="hidden" name="hustle_module_id" value="4"><input type="hidden" name="post_id" value="1243"><div class="hustle-error-message" style="display: none;" data-default-error="Something went wrong, please try again." data-required-error="Please fill out all required fields."><p>Please fill out all required fields.</p></div></form></div></div></div></div></div></div></div>		<div data-elementor-type="popup" data-elementor-id="786" class="elementor elementor-786 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;slideInLeft&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.2,&quot;sizes&quot;:[]},&quot;triggers&quot;:{&quot;click&quot;:&quot;yes&quot;},&quot;timing&quot;:[]}">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-76f79a4d elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="76f79a4d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-3e0b5567 elementor-column elementor-col-50 elementor-top-column" data-id="3e0b5567" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-6c47512c elementor-widget elementor-widget-image" data-id="6c47512c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="213" src="https://therubyhub.com/wp-content/uploads/2019/09/476827_PR-300x213.png" class="attachment-medium size-medium" alt="" srcset="https://therubyhub.com/wp-content/uploads/2019/09/476827_PR-300x213.png 300w, https://therubyhub.com/wp-content/uploads/2019/09/476827_PR.png 600w" sizes="(max-width: 300px) 100vw, 300px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-529342ef elementor-widget elementor-widget-heading" data-id="529342ef" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Why Stay in the Dark?</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-68de9b16 elementor-widget elementor-widget-text-editor" data-id="68de9b16" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: center;">Check informed daily and grow stronger</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-13d9c4e elementor-column elementor-col-50 elementor-top-column" data-id="13d9c4e" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-508404a elementor-button-align-center elementor-widget elementor-widget-form" data-id="508404a" data-element_type="widget" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+					<form class="elementor-form" method="post" id="popform" name="New Form">
+			<input type="hidden" name="post_id" value="786"/>
+			<input type="hidden" name="form_id" value="508404a"/>
+
+			<div class="elementor-form-fields-wrapper elementor-labels-">
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group- elementor-col-100 elementor-field-required">
+					<label for="form-field-" class="elementor-field-label elementor-screen-only">Name</label><input size="1" type="text" name="form_fields[]" id="form-field-" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Name" required="required" aria-required="true">				</div>
+								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group- elementor-col-100 elementor-field-required">
+					<label for="form-field-" class="elementor-field-label elementor-screen-only">Email</label><input size="1" type="email" name="form_fields[]" id="form-field-" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email" required="required" aria-required="true">				</div>
+								<div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-phone_number elementor-col-100 elementor-field-required">
+					<label for="form-field-phone_number" class="elementor-field-label elementor-screen-only">phone</label><input size="1" type="tel" name="form_fields[phone_number]" id="form-field-phone_number" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Phone " required="required" aria-required="true" pattern="[0-9()#&amp;+*-=.]+" title="Only numbers and phone characters (#, -, *, etc) are accepted.">				</div>
+								<div class="elementor-field-type-checkbox elementor-field-group elementor-column elementor-field-group-options elementor-col-100">
+					<label for="form-field-options" class="elementor-field-label elementor-screen-only">Check</label><div class="elementor-field-subgroup  "><span class="elementor-field-option"><input type="checkbox" value="Sales and Marketing" id="form-field-options-0" name="form_fields[options][]"> <label for="form-field-options-0">Sales and Marketing</label></span><span class="elementor-field-option"><input type="checkbox" value="Business News" id="form-field-options-1" name="form_fields[options][]"> <label for="form-field-options-1">Business News</label></span><span class="elementor-field-option"><input type="checkbox" value="Entertainment" id="form-field-options-2" name="form_fields[options][]"> <label for="form-field-options-2">Entertainment</label></span><span class="elementor-field-option"><input type="checkbox" value="Events " id="form-field-options-3" name="form_fields[options][]"> <label for="form-field-options-3">Events </label></span></div>				</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100">
+					<button type="submit" class="elementor-button elementor-size-md" id="sub121">
+						<span >
+															<span class=" elementor-button-icon">
+																										</span>
+																						<span class="elementor-button-text">Subcribe</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://therubyhub.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hustle_icons-css'  href='https://therubyhub.com/wp-content/plugins/wordpress-popup/assets/hustle-ui/css/hustle-icons.min.css?ver=4.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='hustle_global-css'  href='https://therubyhub.com/wp-content/plugins/wordpress-popup/assets/hustle-ui/css/hustle-global.min.css?ver=4.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='hustle_optin-css'  href='https://therubyhub.com/wp-content/plugins/wordpress-popup/assets/hustle-ui/css/hustle-optin.min.css?ver=4.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='hustle_slidein-css'  href='https://therubyhub.com/wp-content/plugins/wordpress-popup/assets/hustle-ui/css/hustle-slidein.min.css?ver=4.0.2' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='hstl-roboto-css'  href='https://fonts.googleapis.com/css?family=Roboto+Condensed%3A300%2C300i%2C400%2C400i%2C700%2C700i%7CRoboto%3A300%2C300i%2C400%2C400i%2C500%2C500i%2C700%2C700i&#038;ver=4.0.2' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='hstl-opensans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400i%2C700%2C700i&#038;ver=4.0.2' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='hstl-source-code-pro-css'  href='https://fonts.googleapis.com/css?family=Source+Code+Pro&#038;ver=4.0.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/otter-blocks/vendor/codeinwp/gutenberg-animation/build/animate.js?ver=5.4.4'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/js/app.js?ver=2.12.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"therubyhub-com"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.17'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.17"},"disqusIdentifier":"1243 https:\/\/therubyhub.com\/?p=1243","disqusShortname":"therubyhub-com","disqusTitle":"Customer Success \u2013 The Number One Reason Amazon is Successful.","disqusUrl":"https:\/\/therubyhub.com\/customer-success-the-number-one-reason-amazon-is-successful\/","postId":"1243"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=3.0.17'></script>
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js?ver=1.2.19.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mailoptin_globals = {"public_js":"https:\/\/therubyhub.com\/wp-content\/plugins\/mailoptin\/src\/core\/src\/assets\/js\/src","mailoptin_ajaxurl":"\/customer-success-the-number-one-reason-amazon-is-successful\/?mailoptin-ajax=%%endpoint%%","is_customize_preview":"false","disable_impression_tracking":"false","sidebar":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/mailoptin/src/core/src/assets/js/mailoptin.min.js?ver=1.2.19.1'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/wordpress-popup/assets/hustle-ui/js/hustle-ui.min.js?ver=4.0.2'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Modules = [{"settings":{"auto_close_success_message":"0","triggers":{"trigger":"click","on_time_delay":"0","on_time_unit":"seconds","on_scroll":"scrolled","on_scroll_page_percent":"20","on_scroll_css_selector":"","enable_on_click_element":"1","on_click_element":"cars45","enable_on_click_shortcode":"1","on_exit_intent":"1","on_exit_intent_per_session":"1","on_exit_intent_delayed":"0","on_exit_intent_delayed_time":"5","on_exit_intent_delayed_unit":"seconds","on_adblock":"0"},"animation_in":"no_animation","animation_out":"no_animation","after_close_trigger":["click_close_icon"],"after_close":"keep_show","expiration":"365","expiration_unit":"days","on_submit":"nothing","on_submit_delay":"5","on_submit_delay_unit":"seconds","hide_after_subscription":"keep_show","display_position":"w","auto_hide":"0","auto_hide_unit":"seconds","auto_hide_time":"5"},"module_id":"3","blog_id":"0","module_name":"car45","module_type":"slidein","active":"1","module_mode":"optin"},{"settings":{"auto_close_success_message":"0","triggers":"","animation_in":"no_animation","animation_out":"no_animation","after_close_trigger":["click_close_icon"],"after_close":"keep_show","expiration":"365","expiration_unit":"days","on_submit":"nothing","on_submit_delay":"5","on_submit_delay_unit":"seconds","hide_after_subscription":"keep_show"},"module_id":"1","blog_id":"0","module_name":"rubyform","module_type":"embedded","active":"1","module_mode":"optin"},{"settings":{"auto_close_success_message":"0","triggers":{"trigger":"click","on_time_delay":"0","on_time_unit":"seconds","on_scroll":"scrolled","on_scroll_page_percent":"20","on_scroll_css_selector":"","enable_on_click_element":"1","on_click_element":"quiz","enable_on_click_shortcode":"1","on_exit_intent":"1","on_exit_intent_per_session":"1","on_exit_intent_delayed":"0","on_exit_intent_delayed_time":"5","on_exit_intent_delayed_unit":"seconds","on_adblock":"0"},"animation_in":"no_animation","animation_out":"no_animation","after_close_trigger":["click_close_icon"],"after_close":"keep_show","expiration":"365","expiration_unit":"days","on_submit":"nothing","on_submit_delay":"5","on_submit_delay_unit":"seconds","hide_after_subscription":"keep_show","display_position":"e","auto_hide":"0","auto_hide_unit":"seconds","auto_hide_time":"5"},"module_id":"4","blog_id":"0","module_name":"shortquiz","module_type":"slidein","active":"1","module_mode":"optin"},{"settings":{"auto_close_success_message":"0","triggers":"","animation_in":"no_animation","animation_out":"no_animation","after_close_trigger":["click_close_icon"],"after_close":"keep_show","expiration":"365","expiration_unit":"days","on_submit":"nothing","on_submit_delay":"5","on_submit_delay_unit":"seconds","hide_after_subscription":"keep_show"},"module_id":"2","blog_id":"0","module_name":"Subscribe","module_type":"embedded","active":"1","module_mode":"optin"}];
+var incOpt = {"is_admin":"","native_share_enpoints":{"facebook":"https:\/\/www.facebook.com\/sharer\/sharer.php?u=https:\/\/therubyhub.com\/customer-success-the-number-one-reason-amazon-is-successful","twitter":"https:\/\/twitter.com\/intent\/tweet?url=https:\/\/therubyhub.com\/customer-success-the-number-one-reason-amazon-is-successful&text=Customer%20Success%20%E2%80%93%20The%20Number%20One%20Reason%20Amazon%20is%20Successful.","pinterest":"https:\/\/www.pinterest.com\/pin\/create\/button\/?url=https:\/\/therubyhub.com\/customer-success-the-number-one-reason-amazon-is-successful","reddit":"https:\/\/www.reddit.com\/submit?url=https:\/\/therubyhub.com\/customer-success-the-number-one-reason-amazon-is-successful","linkedin":"https:\/\/www.linkedin.com\/shareArticle?mini=true&url=https:\/\/therubyhub.com\/customer-success-the-number-one-reason-amazon-is-successful","vkontakte":"https:\/\/vk.com\/share.php?url=https:\/\/therubyhub.com\/customer-success-the-number-one-reason-amazon-is-successful","whatsapp":"https:\/\/wa.me\/?text=https:\/\/therubyhub.com\/customer-success-the-number-one-reason-amazon-is-successful"},"ajaxurl":"https:\/\/therubyhub.com\/wp-admin\/admin-ajax.php","page_id":"1243","page_slug":"customer-success-the-number-one-reason-amazon-is-successful","is_upfront":"","script_delay":"3000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/wordpress-popup/assets/js/front.min.js?ver=1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var NeveProperties = {"ajaxurl":"https:\/\/therubyhub.com\/wp-admin\/admin-ajax.php","nonce":"9ab27ef0d4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/themes/neve/assets/js/build/modern/frontend.js?ver=2.7.6'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-includes/js/comment-reply.min.js?ver=5.4.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tve_dash_front = {"ajaxurl":"https:\/\/therubyhub.com\/wp-admin\/admin-ajax.php","force_ajax_send":"1","is_crawler":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/thrive-leads/thrive-dashboard/js/dist/frontend.min.js?ver=2.2.18.1'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/js/select2/select2.full.min.js?ver=2.0.56'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://therubyhub.com/wp-includes/js/wp-util.min.js?ver=5.4.4'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/js/um-crop.min.js?ver=2.0.56'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/js/um-modal.min.js?ver=2.0.56'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/js/um-jquery-form.min.js?ver=2.0.56'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/js/um-fileupload.min.js?ver=2.0.56'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.js?ver=2.0.56'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.date.js?ver=2.0.56'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.time.js?ver=2.0.56'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/js/pickadate/legacy.js?ver=2.0.56'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/js/um-raty.min.js?ver=2.0.56'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/js/um-tipsy.min.js?ver=2.0.56'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/js/simplebar.min.js?ver=2.0.56'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/js/um-functions.min.js?ver=2.0.56'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/js/um-responsive.min.js?ver=2.0.56'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/js/um-conditional.min.js?ver=2.0.56'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var um_scripts = {"nonce":"37eacd1135"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/js/um-scripts.min.js?ver=2.0.56'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/js/um-members.min.js?ver=2.0.56'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/js/um-profile.min.js?ver=2.0.56'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/ultimate-member/assets/js/um-account.min.js?ver=2.0.56'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-includes/js/wp-embed.min.js?ver=5.4.4'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/elementor-pro/assets/lib/social-share/social-share.min.js?ver=0.2.17'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.14'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.7.1'></script>
+<script type='text/javascript'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/therubyhub.com\/wp-admin\/admin-ajax.php","nonce":"3d9a4acb39","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},
+"facebook_sdk":{"lang":"en_US","app_id":""}};
+</script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.7.1'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6'></script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.14'></script>
+<script type='text/javascript'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","downloadImage":"Download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.14","urls":{"assets":"https:\/\/therubyhub.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]},"post":{"id":1243,"title":"Customer%20Success%20-%20The%20Number%20One%20Reason%20Amazon%20is%20Successful.%20%7C%20The%20Ruby%20Hub","excerpt":"","featuredImage":"https:\/\/therubyhub.com\/wp-content\/uploads\/2019\/11\/amazon.png"}};
+</script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.14'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JetBlogSettings = {"ajaxurl":"https:\/\/therubyhub.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://therubyhub.com/wp-content/plugins/jet-blog/assets/js/jet-blog.min.js?ver=2.1.16'></script>
+<script type="text/javascript">var tcb_post_lists=JSON.parse('[]');</script><script type="text/javascript">/*<![CDATA[*/if ( !window.TL_Const ) {var TL_Const={"security":"6ed0abf207","ajax_url":"https:\/\/therubyhub.com\/wp-admin\/admin-ajax.php","forms":[],"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":0,"main_group_id":1799,"display_options":{"allowed_post_types":[],"flag_url_match":false},"custom_post_data":{"http_referrer":"https:\/\/www.google.com\/"},"current_screen":{"screen_type":4,"screen_id":1243},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","__tcb_lg_msg","_state","_form_type","_error_message_option","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin"]};} else {ThriveGlobal.$j.extend(true, TL_Const, {"security":"6ed0abf207","ajax_url":"https:\/\/therubyhub.com\/wp-admin\/admin-ajax.php","forms":[],"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":0,"main_group_id":1799,"display_options":{"allowed_post_types":[],"flag_url_match":false},"custom_post_data":{"http_referrer":"https:\/\/www.google.com\/"},"current_screen":{"screen_type":4,"screen_id":1243},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","__tcb_lg_msg","_state","_form_type","_error_message_option","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin"]})} /*]]> */</script><style type="text/css" id="hustle-module-3-styles" class="hustle-module-styles">.hustle-ui.module_id_3 .hustle-layout .hustle-field .hustle-input, .hustle-ui.module_id_3 .hustle-layout .hustle-radio span[aria-hidden], .hustle-ui.module_id_3 .hustle-layout .hustle-checkbox:not(.hustle-gdpr) span[aria-hidden] {border-width: 3px;border-style: solid;} .hustle-ui.module_id_3 .hustle-layout .hustle-field .hustle-input, .hustle-ui.module_id_3 .hustle-layout .hustle-checkbox:not(.hustle-gdpr) span[aria-hidden] {border-radius: 5px;-moz-border-radius: 5px;-webkit-border-radius: 5px;} .hustle-ui.module_id_3 .hustle-layout .hustle-button-submit {border-width: 0;border-style: none;border-radius: 0;-moz-border-radius: 0;-webkit-border-radius: 0;} .hustle-ui.module_id_3 .hustle-layout .hustle-checkbox.hustle-gdpr span[aria-hidden] {border-width: 3px;border-style: solid;border-radius: 5px;-moz-border-radius: 5px;-webkit-border-radius: 5px;} .hustle-ui.module_id_3 .hustle-success,.hustle-ui.module_id_3 .hustle-layout .hustle-layout-body {background-color: #38454E} .hustle-ui.module_id_3 .hustle-layout .hustle-image {background-color: #35414A} .hustle-ui.module_id_3 .hustle-layout .hustle-layout-form {background-color: #5D7380} .hustle-ui.module_id_3 .hustle-layout .hustle-title {color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-subtitle {color: #FFFFFF} .hustle-ui.module_id_3 .hustle-success .hustle-success-content {color: #ADB5B7} .hustle-ui.module_id_3 .hustle-success ol li:before  {color: #ADB5B7} .hustle-ui.module_id_3 .hustle-success ul li:before  {color: #ADB5B7} .hustle-ui.module_id_3 .hustle-success blockquote  {color: #ADB5B7} .hustle-ui.module_id_3 .hustle-success a,.hustle-ui.module_id_3 .hustle-success a:visited {color: #ADB5B7} .hustle-ui.module_id_3 .hustle-success a:hover {color: #2DA194} .hustle-ui.module_id_3 .hustle-success a:active {color: #2DA194} .hustle-ui.module_id_3 .hustle-layout .hustle-field .hustle-input-label [class*="hustle-icon-"] {color: #AAAAAA} .hustle-ui.module_id_3 .hustle-layout .hustle-field .hustle-input {border-color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-field .hustle-input {background-color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-field .hustle-input {color: #5D7380} .hustle-ui.module_id_3 .hustle-layout .hustle-field .hustle-input-label span {color: #AAAAAA} .hustle-ui.module_id_3 .hustle-layout .hustle-field:hover .hustle-input-label [class*="hustle-icon-"] {color: #5D7380} .hustle-ui.module_id_3 .hustle-layout .hustle-field .hustle-input:hover {border-color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-field .hustle-input:hover {background-color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-field .hustle-input:focus + .hustle-input-label [class*="hustle-icon-"] {color: #5D7380} .hustle-ui.module_id_3 .hustle-layout .hustle-field .hustle-input:focus {border-color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-field .hustle-input:focus {background-color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-field.hustle-field-error .hustle-input-label [class*="hustle-icon-"] {color: #D43858 !important} .hustle-ui.module_id_3 .hustle-layout .hustle-field.hustle-field-error .hustle-input {border-color: #D43858 !important} .hustle-ui.module_id_3 .hustle-layout .hustle-field.hustle-field-error .hustle-input {background-color: #FFFFFF !important} .hustle-ui.module_id_3 .hustle-layout .hustle-radio span[aria-hidden], .hustle-ui.module_id_3 .hustle-layout .hustle-checkbox:not(.hustle-gdpr) span[aria-hidden] {border-color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-radio span[aria-hidden], .hustle-ui.module_id_3 .hustle-layout .hustle-checkbox:not(.hustle-gdpr) span[aria-hidden] {background-color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-radio span:not([aria-hidden]), .hustle-ui.module_id_3 .hustle-layout .hustle-checkbox:not(.hustle-gdpr) span:not([aria-hidden]) {color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-radio input:checked + span[aria-hidden], .hustle-ui.module_id_3 .hustle-layout .hustle-checkbox:not(.hustle-gdpr) input:checked + span[aria-hidden] {border-color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-radio input:checked + span[aria-hidden], .hustle-ui.module_id_3 .hustle-layout .hustle-checkbox:not(.hustle-gdpr) input:checked + span[aria-hidden] {background-color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-radio span[aria-hidden]:before {background-color: #38C5B5} .hustle-ui.module_id_3 .hustle-layout .hustle-checkbox:not(.hustle-gdpr) span[aria-hidden]:before {color: #38C5B5} .hustle-ui.module_id_3 .hustle-layout .hustle-checkbox.hustle-gdpr span[aria-hidden] {border-color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-checkbox.hustle-gdpr span[aria-hidden] {background-color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-checkbox.hustle-gdpr span:not([aria-hidden]) {color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-checkbox.hustle-gdpr span:not([aria-hidden]) a,.hustle-ui.module_id_3 .hustle-layout .hustle-checkbox.hustle-gdpr span:not([aria-hidden]) a:hover,.hustle-ui.module_id_3 .hustle-layout .hustle-checkbox.hustle-gdpr span:not([aria-hidden]) a:focus,.hustle-ui.module_id_3 .hustle-layout .hustle-checkbox.hustle-gdpr span:not([aria-hidden]) a:active,.hustle-ui.module_id_3 .hustle-layout .hustle-checkbox.hustle-gdpr span:not([aria-hidden]) a:visited {color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-checkbox.hustle-gdpr input:checked + span[aria-hidden] {border-color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-checkbox.hustle-gdpr input:checked + span[aria-hidden] {background-color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-checkbox.hustle-gdpr span[aria-hidden]:before {color: #38C5B5} .hustle-ui.module_id_3 .hustle-layout .hustle-checkbox.hustle-gdpr.hustle-field-error span[aria-hidden] {border-color: #D43858} .hustle-ui.module_id_3 .hustle-layout .hustle-checkbox.hustle-gdpr.hustle-field-error span[aria-hidden] {background-color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-select2 + .select2 .select2-selection--single {border-color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-select2 + .select2 .select2-selection--single {background-color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-select2 + .select2 .select2-selection--single .select2-selection__arrow {color: #38C5B5} .hustle-ui.module_id_3 .hustle-layout .hustle-select2 + .select2 .select2-selection--single .select2-selection__rendered {color: #5D7380} .hustle-ui.module_id_3 .hustle-layout .hustle-select2 + .select2 .select2-selection--single .select2-selection__rendered .select2-selection__placeholder {color: #AAAAAA} .hustle-ui.module_id_3 .hustle-layout .hustle-select2 + .select2:hover .select2-selection--single {border-color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-select2 + .select2:hover .select2-selection--single {background-color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-select2 + .select2:hover .select2-selection--single .select2-selection__arrow {color: #49E2D1} .hustle-ui.module_id_3 .hustle-layout .hustle-select2 + .select2.select2-container--open .select2-selection--single {border-color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-select2 + .select2.select2-container--open .select2-selection--single {background-color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-select2 + .select2.select2-container--open .select2-selection--single .select2-selection__arrow {color: #49E2D1} .hustle-ui.module_id_3 .hustle-layout .hustle-select2.hustle-field-error + .select2 .select2-selection--single {border-color: #D43858} .hustle-ui.module_id_3 .hustle-layout .hustle-select2.hustle-field-error + .select2 .select2-selection--single {background-color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-select2.hustle-field-error + .select2 .select2-selection--single .select2-selection__arrow {color: #D43858} .hustle-module-3.hustle-dropdown,.hustle-ui.module_id_3  .hustle-timepicker .ui-timepicker {background-color: #FFFFFF;} .hustle-module-3.hustle-dropdown .select2-results .select2-results__options .select2-results__option,.hustle-ui.module_id_3  .hustle-timepicker .ui-timepicker .ui-timepicker-viewport a {color: #5D7380;} .hustle-module-3.hustle-dropdown .select2-results .select2-results__options .select2-results__option.select2-results__option--highlighted,.hustle-ui.module_id_3  .hustle-timepicker .ui-timepicker .ui-timepicker-viewport a:hover,.hustle-ui.module_id_3  .hustle-timepicker .ui-timepicker .ui-timepicker-viewport a:active {color: #FFFFFF;} .hustle-module-3.hustle-dropdown .select2-results .select2-results__options .select2-results__option.select2-results__option--highlighted,.hustle-ui.module_id_3  .hustle-timepicker .ui-timepicker .ui-timepicker-viewport a:hover,.hustle-ui.module_id_3  .hustle-timepicker .ui-timepicker .ui-timepicker-viewport a:active {background-color: #ADB5B7;} .hustle-module-3.hustle-dropdown .select2-results .select2-results__options .select2-results__option[aria-selected="true"] {color: #FFFFFF;} .hustle-module-3.hustle-dropdown .select2-results .select2-results__options .select2-results__option[aria-selected="true"] {background-color: #38C5B5;} .hustle-module-3.hustle-calendar:before {background-color: #FFFFFF;} .hustle-module-3.hustle-calendar .ui-datepicker-header .ui-datepicker-title {color: #35414A;} .hustle-module-3.hustle-calendar .ui-datepicker-header .ui-corner-all,.hustle-module-3.hustle-calendar .ui-datepicker-header .ui-corner-all:visited {color: #5D7380;} .hustle-module-3.hustle-calendar .ui-datepicker-calendar thead th {color: #35414A;} .hustle-module-3.hustle-calendar .ui-datepicker-calendar tbody tr td a,.hustle-module-3.hustle-calendar .ui-datepicker-calendar tbody tr td a:visited {background-color: #FFFFFF;} .hustle-module-3.hustle-calendar .ui-datepicker-calendar tbody tr td a,.hustle-module-3.hustle-calendar .ui-datepicker-calendar tbody tr td a:visited {color: #5D7380;} .hustle-module-3.hustle-calendar .ui-datepicker-header .ui-corner-all:hover {color: #5D7380;} .hustle-module-3.hustle-calendar .ui-datepicker-calendar tbody tr td a:hover {background-color: #38C5B5;} .hustle-module-3.hustle-calendar .ui-datepicker-calendar tbody tr td a:hover {color: #FFFFFF;} .hustle-module-3.hustle-calendar .ui-datepicker-header .ui-corner-all:active {color: #5D7380;} .hustle-module-3.hustle-calendar .ui-datepicker-calendar tbody tr td a:active {background-color: #38C5B5;} .hustle-module-3.hustle-calendar .ui-datepicker-calendar tbody tr td a:active {color: #FFFFFF;} .hustle-ui.module_id_3 .hustle-layout .hustle-button-submit {border-color: #38C5B5} .hustle-ui.module_id_3 .hustle-layout .hustle-button-submit {background-color: #38C5B5} .hustle-ui.module_id_3 .hustle-layout .hustle-button-submit {color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-button-submit:hover {border-color: #49E2D1} .hustle-ui.module_id_3 .hustle-layout .hustle-button-submit:hover {background-color: #49E2D1} .hustle-ui.module_id_3 .hustle-layout .hustle-button-submit:hover {color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-button-submit:active {border-color: #49E2D1} .hustle-ui.module_id_3 .hustle-layout .hustle-button-submit:active {background-color: #49E2D1} .hustle-ui.module_id_3 .hustle-layout .hustle-button-submit:active {color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-form-options .hustle-group-title {color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-form-options {background-color: #35414A} .hustle-ui.module_id_3 .hustle-layout .hustle-error-message {background-color: #FFFFFF} .hustle-ui.module_id_3 .hustle-layout .hustle-error-message {box-shadow: inset 4px 0 0 0 #D43858;-moz-box-shadow: inset 4px 0 0 0 #D43858;-webkit-box-shadow: inset 4px 0 0 0 #D43858;} .hustle-ui.module_id_3 .hustle-layout .hustle-error-message p {color: #D43858} .hustle-ui.module_id_3 .hustle-popup-mask {background-color: rgba(51,51,51,0.9)} .hustle-ui.module_id_3 .hustle-button-close {color: #38C5B5} .hustle-ui.module_id_3 .hustle-success [class*="hustle-icon-"] {color: #38C5B5} .hustle-ui.module_id_3 .hustle-nsa-link a,.hustle-ui.module_id_3 .hustle-nsa-link a:visited {color: #38C5B5} .hustle-ui.module_id_3 .hustle-button-close:hover {color: #49E2D1} .hustle-ui.module_id_3 .hustle-nsa-link a:hover {color: #49E2D1} .hustle-ui.module_id_3 .hustle-button-close:active {color: #49E2D1} .hustle-ui.module_id_3 .hustle-nsa-link a:active {color: #49E2D1}</style><style type="text/css" id="hustle-module-4-styles" class="hustle-module-styles">.hustle-ui.module_id_4 .hustle-layout .hustle-field .hustle-input, .hustle-ui.module_id_4 .hustle-layout .hustle-radio span[aria-hidden], .hustle-ui.module_id_4 .hustle-layout .hustle-checkbox:not(.hustle-gdpr) span[aria-hidden] {border-width: 3px;border-style: solid;} .hustle-ui.module_id_4 .hustle-layout .hustle-field .hustle-input, .hustle-ui.module_id_4 .hustle-layout .hustle-checkbox:not(.hustle-gdpr) span[aria-hidden] {border-radius: 5px;-moz-border-radius: 5px;-webkit-border-radius: 5px;} .hustle-ui.module_id_4 .hustle-layout .hustle-button-submit {border-width: 0;border-style: none;border-radius: 0;-moz-border-radius: 0;-webkit-border-radius: 0;} .hustle-ui.module_id_4 .hustle-layout .hustle-checkbox.hustle-gdpr span[aria-hidden] {border-width: 3px;border-style: solid;border-radius: 5px;-moz-border-radius: 5px;-webkit-border-radius: 5px;} .hustle-ui.module_id_4 .hustle-success,.hustle-ui.module_id_4 .hustle-layout .hustle-layout-body {background-color: #38454E} .hustle-ui.module_id_4 .hustle-layout .hustle-image {background-color: #35414A} .hustle-ui.module_id_4 .hustle-layout .hustle-layout-form {background-color: #5D7380} .hustle-ui.module_id_4 .hustle-layout .hustle-title {color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-subtitle {color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-group-content {color: #ADB5B7} .hustle-ui.module_id_4 .hustle-success .hustle-success-content {color: #ADB5B7} .hustle-ui.module_id_4 .hustle-layout .hustle-group-content ol li:before {color: #ADB5B7} .hustle-ui.module_id_4 .hustle-success ol li:before  {color: #ADB5B7} .hustle-ui.module_id_4 .hustle-layout .hustle-group-content ul li:before {background-color: #ADB5B7} .hustle-ui.module_id_4 .hustle-success ul li:before  {color: #ADB5B7} .hustle-ui.module_id_4 .hustle-layout .hustle-group-content blockquote {box-shadow: inset 4px 0 0 0 #38C5B5;-moz-box-shadow: inset 4px 0 0 0 #38C5B5;-webkit-box-shadow: inset 4px 0 0 0 #38C5B5;} .hustle-ui.module_id_4 .hustle-success blockquote  {color: #ADB5B7} .hustle-ui.module_id_4 .hustle-layout .hustle-group-content a,.hustle-ui.module_id_4 .hustle-layout .hustle-group-content a:visited {color: #38C5B5} .hustle-ui.module_id_4 .hustle-success a,.hustle-ui.module_id_4 .hustle-success a:visited {color: #ADB5B7} .hustle-ui.module_id_4 .hustle-layout .hustle-group-content a:hover {color: #2DA194} .hustle-ui.module_id_4 .hustle-success a:hover {color: #2DA194} .hustle-ui.module_id_4 .hustle-layout .hustle-group-content a:active {color: #2DA194} .hustle-ui.module_id_4 .hustle-success a:active {color: #2DA194} .hustle-ui.module_id_4 .hustle-layout .hustle-field .hustle-input-label [class*="hustle-icon-"] {color: #AAAAAA} .hustle-ui.module_id_4 .hustle-layout .hustle-field .hustle-input {border-color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-field .hustle-input {background-color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-field .hustle-input {color: #5D7380} .hustle-ui.module_id_4 .hustle-layout .hustle-field .hustle-input-label span {color: #AAAAAA} .hustle-ui.module_id_4 .hustle-layout .hustle-field:hover .hustle-input-label [class*="hustle-icon-"] {color: #5D7380} .hustle-ui.module_id_4 .hustle-layout .hustle-field .hustle-input:hover {border-color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-field .hustle-input:hover {background-color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-field .hustle-input:focus + .hustle-input-label [class*="hustle-icon-"] {color: #5D7380} .hustle-ui.module_id_4 .hustle-layout .hustle-field .hustle-input:focus {border-color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-field .hustle-input:focus {background-color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-field.hustle-field-error .hustle-input-label [class*="hustle-icon-"] {color: #D43858 !important} .hustle-ui.module_id_4 .hustle-layout .hustle-field.hustle-field-error .hustle-input {border-color: #D43858 !important} .hustle-ui.module_id_4 .hustle-layout .hustle-field.hustle-field-error .hustle-input {background-color: #FFFFFF !important} .hustle-ui.module_id_4 .hustle-layout .hustle-radio span[aria-hidden], .hustle-ui.module_id_4 .hustle-layout .hustle-checkbox:not(.hustle-gdpr) span[aria-hidden] {border-color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-radio span[aria-hidden], .hustle-ui.module_id_4 .hustle-layout .hustle-checkbox:not(.hustle-gdpr) span[aria-hidden] {background-color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-radio span:not([aria-hidden]), .hustle-ui.module_id_4 .hustle-layout .hustle-checkbox:not(.hustle-gdpr) span:not([aria-hidden]) {color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-radio input:checked + span[aria-hidden], .hustle-ui.module_id_4 .hustle-layout .hustle-checkbox:not(.hustle-gdpr) input:checked + span[aria-hidden] {border-color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-radio input:checked + span[aria-hidden], .hustle-ui.module_id_4 .hustle-layout .hustle-checkbox:not(.hustle-gdpr) input:checked + span[aria-hidden] {background-color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-radio span[aria-hidden]:before {background-color: #38C5B5} .hustle-ui.module_id_4 .hustle-layout .hustle-checkbox:not(.hustle-gdpr) span[aria-hidden]:before {color: #38C5B5} .hustle-ui.module_id_4 .hustle-layout .hustle-checkbox.hustle-gdpr span[aria-hidden] {border-color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-checkbox.hustle-gdpr span[aria-hidden] {background-color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-checkbox.hustle-gdpr span:not([aria-hidden]) {color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-checkbox.hustle-gdpr span:not([aria-hidden]) a,.hustle-ui.module_id_4 .hustle-layout .hustle-checkbox.hustle-gdpr span:not([aria-hidden]) a:hover,.hustle-ui.module_id_4 .hustle-layout .hustle-checkbox.hustle-gdpr span:not([aria-hidden]) a:focus,.hustle-ui.module_id_4 .hustle-layout .hustle-checkbox.hustle-gdpr span:not([aria-hidden]) a:active,.hustle-ui.module_id_4 .hustle-layout .hustle-checkbox.hustle-gdpr span:not([aria-hidden]) a:visited {color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-checkbox.hustle-gdpr input:checked + span[aria-hidden] {border-color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-checkbox.hustle-gdpr input:checked + span[aria-hidden] {background-color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-checkbox.hustle-gdpr span[aria-hidden]:before {color: #38C5B5} .hustle-ui.module_id_4 .hustle-layout .hustle-checkbox.hustle-gdpr.hustle-field-error span[aria-hidden] {border-color: #D43858} .hustle-ui.module_id_4 .hustle-layout .hustle-checkbox.hustle-gdpr.hustle-field-error span[aria-hidden] {background-color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-select2 + .select2 .select2-selection--single {border-color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-select2 + .select2 .select2-selection--single {background-color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-select2 + .select2 .select2-selection--single .select2-selection__arrow {color: #38C5B5} .hustle-ui.module_id_4 .hustle-layout .hustle-select2 + .select2 .select2-selection--single .select2-selection__rendered {color: #5D7380} .hustle-ui.module_id_4 .hustle-layout .hustle-select2 + .select2 .select2-selection--single .select2-selection__rendered .select2-selection__placeholder {color: #AAAAAA} .hustle-ui.module_id_4 .hustle-layout .hustle-select2 + .select2:hover .select2-selection--single {border-color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-select2 + .select2:hover .select2-selection--single {background-color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-select2 + .select2:hover .select2-selection--single .select2-selection__arrow {color: #49E2D1} .hustle-ui.module_id_4 .hustle-layout .hustle-select2 + .select2.select2-container--open .select2-selection--single {border-color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-select2 + .select2.select2-container--open .select2-selection--single {background-color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-select2 + .select2.select2-container--open .select2-selection--single .select2-selection__arrow {color: #49E2D1} .hustle-ui.module_id_4 .hustle-layout .hustle-select2.hustle-field-error + .select2 .select2-selection--single {border-color: #D43858} .hustle-ui.module_id_4 .hustle-layout .hustle-select2.hustle-field-error + .select2 .select2-selection--single {background-color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-select2.hustle-field-error + .select2 .select2-selection--single .select2-selection__arrow {color: #D43858} .hustle-module-4.hustle-dropdown,.hustle-ui.module_id_4  .hustle-timepicker .ui-timepicker {background-color: #FFFFFF;} .hustle-module-4.hustle-dropdown .select2-results .select2-results__options .select2-results__option,.hustle-ui.module_id_4  .hustle-timepicker .ui-timepicker .ui-timepicker-viewport a {color: #5D7380;} .hustle-module-4.hustle-dropdown .select2-results .select2-results__options .select2-results__option.select2-results__option--highlighted,.hustle-ui.module_id_4  .hustle-timepicker .ui-timepicker .ui-timepicker-viewport a:hover,.hustle-ui.module_id_4  .hustle-timepicker .ui-timepicker .ui-timepicker-viewport a:active {color: #FFFFFF;} .hustle-module-4.hustle-dropdown .select2-results .select2-results__options .select2-results__option.select2-results__option--highlighted,.hustle-ui.module_id_4  .hustle-timepicker .ui-timepicker .ui-timepicker-viewport a:hover,.hustle-ui.module_id_4  .hustle-timepicker .ui-timepicker .ui-timepicker-viewport a:active {background-color: #ADB5B7;} .hustle-module-4.hustle-dropdown .select2-results .select2-results__options .select2-results__option[aria-selected="true"] {color: #FFFFFF;} .hustle-module-4.hustle-dropdown .select2-results .select2-results__options .select2-results__option[aria-selected="true"] {background-color: #38C5B5;} .hustle-module-4.hustle-calendar:before {background-color: #FFFFFF;} .hustle-module-4.hustle-calendar .ui-datepicker-header .ui-datepicker-title {color: #35414A;} .hustle-module-4.hustle-calendar .ui-datepicker-header .ui-corner-all,.hustle-module-4.hustle-calendar .ui-datepicker-header .ui-corner-all:visited {color: #5D7380;} .hustle-module-4.hustle-calendar .ui-datepicker-calendar thead th {color: #35414A;} .hustle-module-4.hustle-calendar .ui-datepicker-calendar tbody tr td a,.hustle-module-4.hustle-calendar .ui-datepicker-calendar tbody tr td a:visited {background-color: #FFFFFF;} .hustle-module-4.hustle-calendar .ui-datepicker-calendar tbody tr td a,.hustle-module-4.hustle-calendar .ui-datepicker-calendar tbody tr td a:visited {color: #5D7380;} .hustle-module-4.hustle-calendar .ui-datepicker-header .ui-corner-all:hover {color: #5D7380;} .hustle-module-4.hustle-calendar .ui-datepicker-calendar tbody tr td a:hover {background-color: #38C5B5;} .hustle-module-4.hustle-calendar .ui-datepicker-calendar tbody tr td a:hover {color: #FFFFFF;} .hustle-module-4.hustle-calendar .ui-datepicker-header .ui-corner-all:active {color: #5D7380;} .hustle-module-4.hustle-calendar .ui-datepicker-calendar tbody tr td a:active {background-color: #38C5B5;} .hustle-module-4.hustle-calendar .ui-datepicker-calendar tbody tr td a:active {color: #FFFFFF;} .hustle-ui.module_id_4 .hustle-layout .hustle-button-submit {border-color: #38C5B5} .hustle-ui.module_id_4 .hustle-layout .hustle-button-submit {background-color: #38C5B5} .hustle-ui.module_id_4 .hustle-layout .hustle-button-submit {color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-button-submit:hover {border-color: #49E2D1} .hustle-ui.module_id_4 .hustle-layout .hustle-button-submit:hover {background-color: #49E2D1} .hustle-ui.module_id_4 .hustle-layout .hustle-button-submit:hover {color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-button-submit:active {border-color: #49E2D1} .hustle-ui.module_id_4 .hustle-layout .hustle-button-submit:active {background-color: #49E2D1} .hustle-ui.module_id_4 .hustle-layout .hustle-button-submit:active {color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-form-options .hustle-group-title {color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-form-options {background-color: #35414A} .hustle-ui.module_id_4 .hustle-layout .hustle-error-message {background-color: #FFFFFF} .hustle-ui.module_id_4 .hustle-layout .hustle-error-message {box-shadow: inset 4px 0 0 0 #D43858;-moz-box-shadow: inset 4px 0 0 0 #D43858;-webkit-box-shadow: inset 4px 0 0 0 #D43858;} .hustle-ui.module_id_4 .hustle-layout .hustle-error-message p {color: #D43858} .hustle-ui.module_id_4 .hustle-popup-mask {background-color: rgba(51,51,51,0.9)} .hustle-ui.module_id_4 .hustle-button-close {color: #38C5B5} .hustle-ui.module_id_4 .hustle-success [class*="hustle-icon-"] {color: #38C5B5} .hustle-ui.module_id_4 .hustle-nsa-link a,.hustle-ui.module_id_4 .hustle-nsa-link a:visited {color: #38C5B5} .hustle-ui.module_id_4 .hustle-button-close:hover {color: #49E2D1} .hustle-ui.module_id_4 .hustle-nsa-link a:hover {color: #49E2D1} .hustle-ui.module_id_4 .hustle-button-close:active {color: #49E2D1} .hustle-ui.module_id_4 .hustle-nsa-link a:active {color: #49E2D1}</style>		<script type="text/javascript">
+			jQuery( '#request' ).val( '' );
+		</script>
+	
+</body>
+
+</html>
