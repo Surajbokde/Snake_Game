@@ -13,5 +13,6 @@
       -Bootstrap,html,css,JS
     
     
-    Link: https://surajbokde.github.io/Snake_Game/
+    
+   Link: https://surajbokde.github.io/Snake_Game/
       
