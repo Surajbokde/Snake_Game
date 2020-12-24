@@ -1,6 +1,6 @@
 # Snake_Game
 
-###    Author name: Suraj Bokde
+
         
     What i learn?
       -Learn make use of datastructure Array
