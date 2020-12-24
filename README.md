@@ -1,6 +1,7 @@
 # Snake_Game
 
-###    Author name:Suraj Bokde
+###    Author name: Suraj Bokde
+        
     What i learn?
       -Learn make use of datastructure Array
       -Learn Canvas 
@@ -10,3 +11,7 @@
     What i used?
       -Canvas
       -Bootstrap,html,css,JS
+    
+    
+    Link: https://surajbokde.github.io/Snake_Game/
+      
